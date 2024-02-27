@@ -1,4 +1,4 @@
-﻿//git -> create repo 
+﻿//git -> create repo -> commit -> push
 class Program
 {
     public static void Main()
