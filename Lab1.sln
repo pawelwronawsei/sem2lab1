@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab3", "sem2lab3\sem2la
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab4", "sem2lab4\sem2lab4.csproj", "{15329048-4258-4447-88D5-31F5EBF6CFF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab5", "sem2lab5\sem2lab5.csproj", "{C6B2FBB5-3F28-4602-8C49-64085D552CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab6", "sem2lab6\sem2lab6.csproj", "{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{15329048-4258-4447-88D5-31F5EBF6CFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15329048-4258-4447-88D5-31F5EBF6CFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15329048-4258-4447-88D5-31F5EBF6CFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B2FBB5-3F28-4602-8C49-64085D552CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B2FBB5-3F28-4602-8C49-64085D552CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B2FBB5-3F28-4602-8C49-64085D552CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B2FBB5-3F28-4602-8C49-64085D552CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
