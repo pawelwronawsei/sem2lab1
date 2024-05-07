@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab5", "sem2lab5\sem2la
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab6", "sem2lab6\sem2lab6.csproj", "{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sem2lab9", "sem2lab9\sem2lab9.csproj", "{39E553B9-D090-48EA-8C30-90EC14E73354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lablib", "lablib\lablib.csproj", "{C3D867AF-6F74-479E-BE41-32F1819FBC6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814765FE-A442-4B4E-9706-AFD4FEB0DCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E553B9-D090-48EA-8C30-90EC14E73354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E553B9-D090-48EA-8C30-90EC14E73354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E553B9-D090-48EA-8C30-90EC14E73354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E553B9-D090-48EA-8C30-90EC14E73354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D867AF-6F74-479E-BE41-32F1819FBC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D867AF-6F74-479E-BE41-32F1819FBC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D867AF-6F74-479E-BE41-32F1819FBC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D867AF-6F74-479E-BE41-32F1819FBC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
